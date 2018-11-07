@@ -1,4 +1,6 @@
+![alt text](https://github.com/sguo35/guse/blob/master/screen4.PNG "Start Screen")
 ![alt text](https://github.com/sguo35/guse/blob/master/screen1.PNG "Sample Portfolio")
+![alt text](https://github.com/sguo35/guse/blob/master/screen2.PNG "Questionnaire")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
