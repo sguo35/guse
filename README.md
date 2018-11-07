@@ -1,4 +1,4 @@
-![alt text](screen1.png "Sample Portfolio")
+![alt text](https://github.com/sguo35/guse/blob/master/screen1.PNG "Sample Portfolio")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
