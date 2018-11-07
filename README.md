@@ -1,4 +1,4 @@
-![](screen1.png)
+![alt text](screen1.png "Sample Portfolio")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
